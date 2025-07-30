@@ -1,0 +1,17 @@
+[project]
+name = "stochastic-radiant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { email = "connacher.murphy@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.60.0",
+    "dotenv>=0.9.9",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
