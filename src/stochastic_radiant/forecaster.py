@@ -25,6 +25,8 @@ Rationale: [rationale]
 
 Your forecast should be a single number between 0 and 1.
 
+Outside of "Forecast: ", you should not include any special character or other text on the forecast line.
+
 Please limit your rationale to 100 words.
 """
 
